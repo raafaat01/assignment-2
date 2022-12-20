@@ -101,7 +101,7 @@ namespace TIC_TAC_TOE
             if (flag == 1)
             {
                 Console.WriteLine("Player {0} has won", (player % 2) + 1);
-                Console.Writeline("press any button to return to main menu"); 
+                Console.WriteLine("press any button to return to main menu"); 
             }
             else
             {
